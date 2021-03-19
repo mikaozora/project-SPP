@@ -1,0 +1,4 @@
+backend/spp/node_modules/
+frontend/admin-site/node_modules
+frontend/siswa-site/node_modules
+frontend/petugas-site/node_modules
